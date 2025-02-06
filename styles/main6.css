@@ -5,7 +5,7 @@ body {
 }
 a:hover, a:focus {
     font-style: italic;
-    color: orangered;
+    color: rgb(183, 0, 255);
 }
 header h1 {
     font-size: 175%;
