@@ -76,8 +76,6 @@ footer{
     clear: both;
     border-top: 2px black;
 
-
-
 }
  footer p.copyright {
      text-align: center;
@@ -88,7 +86,7 @@ footer{
     position: fixed;
     bottom: 35%;
     right: 0%;
-    border: 3px solid black;
+    border: 3px solid rgb(202, 116, 36);
     background-color: #facd8a;
     
  }
