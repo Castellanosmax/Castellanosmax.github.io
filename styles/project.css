@@ -69,8 +69,18 @@ aside{
     background-color: #facd8a;
 
 }
- 
+footer{
+    clear: both;
+    border-top: blue;
+
+
+
+}
  footer p.copyright {
      text-align: center;
      font-size: 80%;
+ }
+ p.fixed{
+    width: auto;
+    
  }
