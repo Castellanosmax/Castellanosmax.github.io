@@ -44,6 +44,7 @@ html {
     width: 70%;
     float: left;
     column-count: 2;
+    column-rule: 2px dotted color(srgb rgb(253, 186, 1) green blue);
     column-gap: 2em;
     margin-left: 2em;
 
