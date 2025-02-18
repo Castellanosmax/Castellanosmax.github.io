@@ -47,6 +47,7 @@ html {
     column-rule: 2px dotted orange;
     column-gap: 2em;
     margin-left: 2em;
+
  
 }
 article h3{
@@ -67,6 +68,7 @@ aside{
     width: 20%;
     float: right;
     background-color: #facd8a;
+    padding-bottom: 2em;
 
 }
 footer{
