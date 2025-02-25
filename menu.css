@@ -1,5 +1,6 @@
 #nav_menu ul { 
-    list-style-type: none; 
+    list-style-type: none;
+    background-color: green; 
 
 }
 #nav_menu ul li { float: left; }
