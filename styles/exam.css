@@ -37,6 +37,10 @@ article {
     margin-left: 2em;
 }
 
+article h1 {
+    color: aquamarine;
+}
+
 article h2 {
     color: blueviolet;
 }
