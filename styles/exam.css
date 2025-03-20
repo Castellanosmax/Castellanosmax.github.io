@@ -54,3 +54,13 @@ aside{
     padding-bottom: 2em;
     padding-left: 1em;
 }
+
+footer{
+    clear: both;
+    border-top: 2px solid orange;
+
+}
+ footer p.copyright {
+     text-align: center;
+     font-size: 80%;
+ }
