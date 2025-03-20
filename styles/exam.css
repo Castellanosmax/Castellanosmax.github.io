@@ -49,6 +49,7 @@ article p::first-letter{
     font-weight: bold;
     font-style: italic;
     color: navy;
+    float: left;
 }
 
 aside{
