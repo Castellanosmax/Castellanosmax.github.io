@@ -44,17 +44,17 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted orange;
+    column-rule: 2px dotted navy;
     column-gap: 2em;
     margin-left: 2em;
 }
 
 article h1 {
-    color: rgb(33, 76, 170);
+    color: navy;
 }
 
 article h2 {
-    color: blueviolet;
+    color: navy;
 }
 
 article img{
