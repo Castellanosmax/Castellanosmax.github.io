@@ -87,6 +87,9 @@ aside ul {
     list-style-type: square;
 }
 
+aside ol {
+    list-style-type: lower-alpha;
+}
 
 footer{
     clear: both;
