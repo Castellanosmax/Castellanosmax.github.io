@@ -9,14 +9,14 @@ body {
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
-    border-radius: 75px;
+    border-radius: 25px;
     background-color: antiquewhite;
 }
 
 
 #nav_menu {
     margin-top: 10 px;
-    
+
 
 }
 
