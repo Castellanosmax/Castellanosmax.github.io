@@ -48,12 +48,11 @@ article {
     column-rule: 2px dotted navy;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2 px solid orange;
 }
 
 article h1 {
     color: navy;
-    border-top: 2 px solid navy;
+    
 }
 
 article h2 {
