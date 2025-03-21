@@ -51,6 +51,7 @@ article {
 
 article h1 {
     color: navy;
+    border-top: 2 px solid navy;
 }
 
 article h2 {
