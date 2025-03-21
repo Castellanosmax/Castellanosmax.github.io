@@ -8,7 +8,7 @@ margin: 15px auto;
 background-image: url(../images/foraccount.jpg);
 background-position: right;
 background-repeat: repeat-y;
-    background-attachment: fixed;
+background-attachment: fixed;
 background-color: antiquewhite;
 border-top: 1px solid rgb(0, 0, 0); 
 border-right: 4px solid rgb(0, 0, 0); 
