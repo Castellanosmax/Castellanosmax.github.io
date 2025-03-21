@@ -10,12 +10,11 @@ background-position: right;
 background-repeat: repeat-y;
     background-attachment: fixed;
 background-color: antiquewhite;
-border: 3px solid black;
-border-top: 2px solid red; 
-border-right: 2px solid green; 
-border-bottom: 2px solid blue; 
-border-left: 2px solid yellow;
-border-radius: 100px;
+border-top: 1px solid rgb(5, 5, 5); 
+border-right: 4px solid green; 
+border-bottom: 4px solid blue; 
+border-left: 1px solid yellow;
+border-radius: 60px;
 }
 
 #nav_menu {
