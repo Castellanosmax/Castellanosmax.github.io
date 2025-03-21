@@ -14,6 +14,11 @@ body {
 }
 
 
+#nav_menu {
+    margin-top: 10 px;
+
+}
+
 #nav_menu ul { 
     list-style-type: none;
     background-color: green; 
