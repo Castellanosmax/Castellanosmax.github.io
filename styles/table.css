@@ -43,9 +43,6 @@ html, body {
     table.third thead tr:first-child{
         border-top: 2px solid orange;
     }
-    table.third thead tr:nth-child {
-        border-top: 2px solid orange;
-    }
     table.third thead tr:last-child {
         border-top: 2px solid orange;
     }
