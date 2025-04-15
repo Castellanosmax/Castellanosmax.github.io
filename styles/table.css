@@ -38,4 +38,5 @@ html, body {
     }
     table.third th {
         background-color: greenyellow;
+        vertical-align: top;
     }
