@@ -40,3 +40,12 @@ html, body {
         background-color: greenyellow;
         vertical-align: top;
     }
+    table.third thead tr:first-child{
+        border-top: 2px solid orange;
+    }
+    table.third thead tr:nth-child {
+        border-top: 2px solid orange;
+    }
+    table.third thead tr:last-child {
+        border-top: 2px solid orange;
+    }
